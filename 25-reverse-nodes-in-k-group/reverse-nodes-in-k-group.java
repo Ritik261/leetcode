@@ -13,6 +13,10 @@ class Solution {
         ListNode node = head;
         int count = 0;
 
+        // also can
+
+        if(head == null || head.next == null) return head;
+
         while(count < k && node != null){
             node = node.next;
             count++;
