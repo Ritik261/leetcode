@@ -1,3 +1,5 @@
+https://youtu.be/xVU2UDaFOfE?si=T15pkamfbjU0OkNZ
+
 # LeetCode Daily Solutions with Ritik 🔥
 
 Welcome to LeetCode Daily Solutions repository! Here you will find daily solutions to LeetCode coding problems. Whether you're a beginner looking to improve your problem-solving skills or an experienced coder sharpening your algorithmic thinking, this repository is for you.
