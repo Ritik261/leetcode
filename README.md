@@ -1,4 +1,7 @@
-https://youtu.be/xVU2UDaFOfE?si=T15pkamfbjU0OkNZ
+
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/xVU2UDaFOfE?si=T15pkamfbjU0OkNZ)
+
 
 # LeetCode Daily Solutions with Ritik 🔥
 
